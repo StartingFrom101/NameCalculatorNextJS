@@ -1,7 +1,7 @@
 
 ## CHECKING THE PROJECT DIRECTLY
 
-- The app is deployed on a site here: name-calculator-next-js.vercel.app
+- The app is deployed on a site here: hrrps://name-calculator-next-js.vercel.app
 
 
 ## DEPLOYMENT
