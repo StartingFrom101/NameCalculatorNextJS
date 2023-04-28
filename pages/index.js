@@ -37,7 +37,8 @@ export default function Home() {
         <div className='text-center'>
         <button className='rounded-full w-1/2 bg-gray-500 p-4 my-4'>Enter</button>
         </div>
-      </form>      
+      </form>    
+      <span className='text-sm text-slate-400'>Made by Rin on NextJS</span>  
     </main>
   )
 }
