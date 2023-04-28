@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## CHECKING THE PROJECT DIRECTLY
+
+- The app is deployed on a site [here](name-calculator-next-js.vercel.app)
+
+
+## DEPLOYMENT
 
 First, run the development server:
 
